@@ -19,7 +19,7 @@ This project demonstrates how to build a **real-time data streaming pipeline** f
 
 ---
 ## Architecture Diagram
-
+![Architecture Diagram](./Images/Architecture_diagram.png)
 
 ---
 ## Flink Job Logic
