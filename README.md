@@ -22,6 +22,11 @@ This project demonstrates how to build a **real-time data streaming pipeline** f
 ![Architecture Diagram](./Images/Architecture_diagram.png)
 
 ---
+## Data Getting Generated using Faker library for Kafka Broker to consume
+
+This project diagram shows new data is getting created which can be used by the Kafka Producer
+![Diagram](./Images/Data_getting_generated.png)
+---
 ## Flink Job Logic
 - Uses Java with Apache Flink 1.16
 - Aggregates messages using a Keyed Tumbling Window
