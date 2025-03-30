@@ -32,7 +32,7 @@ This project diagram shows new data is getting created which can be used by the 
 - Aggregates messages using a Keyed Tumbling Window
 - Groups by city
 - Computes the average temperature over 60-second intervals
-- Uses Flink’s JdbcSink to write to PostgreSQL
+- Uses Flink’s Jdbc Sink to write to PostgreSQL
 
 ---
 
